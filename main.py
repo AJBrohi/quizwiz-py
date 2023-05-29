@@ -6,7 +6,7 @@ print("Categories Are - ")
 for category in category_list:
     print(category.capitalize(), end="\n")
 category_choice = input(
-    "What category qustions you like to answer? - ").lower()
+    "What category questions you like to answer? - ").lower()
 
 print("\n")
 
@@ -14,7 +14,7 @@ print("Difficulties Are - ")
 for difficulty in difficulty_list:
     print(difficulty.capitalize(), end="\n")
 difficulty_choice = input(
-    "What difficulty qustions you like to answer? - ").lower()
+    "What difficult level questions do you like to answer? - ").lower()
 
 question_bank = []
 
@@ -29,7 +29,7 @@ if question_bank:
     quiz = QuizProcessing(question_bank)
     # clear
     print(f"Category: {category_choice.capitalize()}")
-    print(f"Diffuculty: {difficulty_choice.capitalize()}")
+    print(f"Difficulty: {difficulty_choice.capitalize()}")
 
     while quiz.questions_remaining():
         quiz.next_question()
