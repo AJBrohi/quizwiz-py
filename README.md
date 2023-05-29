@@ -2,6 +2,8 @@
 
 The QuizWiz is a Python program that allows users to answer multiple-choice questions from different categories and difficulty levels. It uses a collection of questions and their corresponding answers to create a quiz experience for the user.
 
+![QuizWiz](https://github.com/AJBrohi/quizwiz-py/assets/29802859/9faad752-fc3f-4725-8daa-dd8f86b6b9e4)
+
 ## Program's Features
 
 - Multiple categories to choose from
