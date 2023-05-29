@@ -26,13 +26,13 @@ question_data = [
     {
         "category": "computers",
         "difficulty": "easy",
-        "question": "In most programming languages, the operator ++ is equivalent to the statement &quot;+= 1&quot;.",
+        "question": "In most programming languages, the operator ++ is equivalent to the statement '+= 1'.",
         "correct_answer": "True"
     },
     {
         "category": "computers",
         "difficulty": "medium",
-        "question": "&quot;Windows NT&quot; is a monolithic kernel.",
+        "question": "'Windows NT' is a monolithic kernel.",
         "correct_answer": "False"
     },
     {
@@ -98,13 +98,13 @@ question_data = [
     {
         "category": "general knowledge",
         "difficulty": "medium",
-        "question": "The term &quot;Spam&quot; came before the food product &quot;Spam&quot;.",
+        "question": "The term 'Spam' came before the food product 'Spam'.",
         "correct_answer": "False"
     },
     {
         "category": "general knowledge",
         "difficulty": "medium",
-        "question": "Sitting for more than three hours a day can cut two years off a person&#039;s life expectancy.",
+        "question": "Sitting for more than three hours a day can cut two years off a person's life expectancy.",
         "correct_answer": "True"
     },
     {
@@ -116,31 +116,31 @@ question_data = [
     {
         "category": "general knowledge",
         "difficulty": "medium",
-        "question": "&quot;Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.&quot; is a grammatically correct sentence.",
+        "question": "'Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.' is a grammatically correct sentence.",
         "correct_answer": "True"
     },
     {
         "category": "film",
         "difficulty": "easy",
-        "question": "The movie &quot;The Nightmare before Christmas&quot; was all done with physical objects.",
+        "question": "The movie 'The Nightmare before Christmas' was all done with physical objects.",
         "correct_answer": "True"
     },
     {
         "category": "film",
         "difficulty": "easy",
-        "question": "Leonardo DiCaprio won an Oscar for Best Actor in 2004&#039;s &quot;The Aviator&quot;.",
+        "question": "Leonardo DiCaprio won an Oscar for Best Actor in 2004's 'The Aviator'.",
         "correct_answer": "False"
     },
     {
         "category": "film",
         "difficulty": "easy",
-        "question": "In the original script of &quot;The Matrix&quot;, the machines used humans as additional computing power instead of batteries.",
+        "question": "In the original script of 'The Matrix', the machines used humans as additional computing power instead of batteries.",
         "correct_answer": "True"
     },
     {
         "category": "film",
         "difficulty": "easy",
-        "question": "&quot;Minions&quot; was released on the June 10th, 2015.",
+        "question": "'Minions' was released on the June 10th, 2015.",
         "correct_answer": "False"
     },
     {
@@ -152,31 +152,31 @@ question_data = [
     {
         "category": "film",
         "difficulty": "medium",
-        "question": "There aren&#039;t any live-action clones in &quot;Star Wars: Episode III - Revenge of the Sith&quot;.",
+        "question": "There aren't any live-action clones in 'Star Wars: Episode III - Revenge of the Sith'.",
         "correct_answer": "True"
     },
     {
         "category": "film",
         "difficulty": "medium",
-        "question": "The Xenomorph from the science fiction film &quot;Alien&quot; has acidic blood.",
+        "question": "The Xenomorph from the science fiction film 'Alien' has acidic blood.",
         "correct_answer": "True"
     },
     {
         "category": "film",
         "difficulty": "medium",
-        "question": "Joan Cusack starred in the 2009 disaster movie, &quot;2012&quot;.",
+        "question": "Joan Cusack starred in the 2009 disaster movie, '2012'.",
         "correct_answer": "False"
     },
     {
         "category": "film",
         "difficulty": "medium",
-        "question": "The movie &quot;Tron&quot; received an Oscar nomination for Best Visual Effects.",
+        "question": "The movie 'Tron' received an Oscar nomination for Best Visual Effects.",
         "correct_answer": "False"
     },
     {
         "category": "film",
         "difficulty": "medium",
-        "question": "The original ending of &quot;Little Shop Of Horrors&quot; has the plants taking over the world.",
+        "question": "The original ending of 'Little Shop Of Horrors' has the plants taking over the world.",
         "correct_answer": "True"
     },
     {
@@ -200,7 +200,7 @@ question_data = [
     {
         "category": "sports",
         "difficulty": "easy",
-        "question": "In Rugby League, performing a &quot;40-20&quot; is punished by a free kick for the opposing team.",
+        "question": "In Rugby League, performing a '40-20' is punished by a free kick for the opposing team.",
         "correct_answer": "False"
     },
     {

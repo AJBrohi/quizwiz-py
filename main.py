@@ -28,14 +28,12 @@ for question in question_data:
 if question_bank:
     quiz = QuizProcessing(question_bank)
     # clear
-    print(f"Category: {category_choice}")
-    print(f"Diffuculty: {difficulty_choice}")
+    print(f"Category: {category_choice.capitalize()}")
+    print(f"Diffuculty: {difficulty_choice.capitalize()}")
 
     while quiz.questions_remaining():
         quiz.next_question()
 
-    print("You've completed the quiz.")
-    print(f"Your final score is: {quiz.score}/{quiz.question_number}")
-    print("Thank you for using our program.")
+    quiz.print_answers()
 else:
     print("Wrong Choice. Try Again!!")
