@@ -31,7 +31,7 @@ The QuizWiz is a Python program that allows users to answer multiple-choice ques
 
 ## Learn More
 
-I've written a detailed article explaining how this game works and how to run it step-by-step on Medium. Check it out here: [How to Build a Juice Bar in Python: A Step-by-Step Guide](https://medium.com/@ajbrohi/how-to-build-a-juice-bar-in-python-a-step-by-step-guide-dfd7e5d42901)
+I've written a detailed article explaining how this game works and how to run it step-by-step on Medium. Check it out here: [Python Quiz App "QuizWiz" - Test Your Knowledge with Fun!](https://medium.com/@ajbrohi/python-quiz-app-quizwiz-test-your-knowledge-with-fun-cad0ae1191f)
 
 You can also follow my coding journey on my coding journal [From Beginner to Pro: A Python Project Journal of Learning and Innovation](https://medium.com/@ajbrohi/from-beginner-to-pro-a-python-project-journal-of-learning-and-innovation-60ede797a9c3), where I share my all projects article.
 
